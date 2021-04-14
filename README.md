@@ -22,3 +22,6 @@ In addition, the plot below shows the cancalling timing. It seems more people ca
 I have tested logistic regression and random forecast model. The model performances are as below:
 
 ![plot](./fig/model_result.png)
+
+
+![code base](https://github.com/YiWang-Evonne/Sparkify_capstone) 
