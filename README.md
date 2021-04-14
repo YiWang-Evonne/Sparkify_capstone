@@ -4,6 +4,8 @@ This repo contains the code for my Sparkify capstone project. For more details a
 
 
 ## Structure
+'''
 ├── Sparkify_Capstone.ipynb: main notebooks that contain all my code. This is directly download from EMR.
 ├── README.md
 └── .gitignore
+'''
