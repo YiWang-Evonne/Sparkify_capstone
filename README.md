@@ -24,4 +24,4 @@ I have tested logistic regression and random forecast model. The model performan
 ![plot](./fig/model_result.png)
 
 
-![code base](https://github.com/YiWang-Evonne/Sparkify_capstone) 
+[code base](https://github.com/YiWang-Evonne/Sparkify_capstone) 
