@@ -9,3 +9,10 @@ This repo contains the code for my Sparkify capstone project. For more details a
 ├── README.md
 └── .gitignore
  ```
+
+## Data Overview
+![plot](./fig/chun_rate_analysis.png)
+![plot](./fig/user_cancel_timing.png)
+## Model Result 
+
+![plot](./fig/model_result.png)
